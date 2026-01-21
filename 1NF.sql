@@ -1,0 +1,3 @@
+-- The table already satisfies 1NF
+-- All attributes contain atomic values
+-- No repeating groups or multivalued attributes

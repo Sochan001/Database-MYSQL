@@ -1,4 +1,4 @@
-CREATE DATABASE IF NOT EXISTS stu_db;
+CREATE DATABASE stu_db;
 USE stu_db;
 
 CREATE TABLE University_Registration_UNF (

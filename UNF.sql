@@ -14,7 +14,6 @@ CREATE TABLE University_Registration_UNF (
     Building VARCHAR(50),
     Room VARCHAR(10)
 );
-
 INSERT INTO University_Registration_UNF VALUES
 ('S101', 'Alice', 'alice@uni.edu', 'CS', 'Dr. Smith', 'CS301', 'Algorithms', 4, 'A', 'Science', '205'),
 ('S101', 'Alice', 'alice@uni.edu', 'CS', 'Dr. Smith', 'MATH201', 'Linear Algebra', 3, 'B', 'Math Wing', '101'),

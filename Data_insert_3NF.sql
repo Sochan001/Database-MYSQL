@@ -1,5 +1,4 @@
 USE stu_db;
-
 INSERT INTO Majors
 SELECT DISTINCT Major, Advisor
 FROM University_Registration_UNF;
